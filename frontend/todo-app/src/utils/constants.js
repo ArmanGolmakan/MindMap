@@ -1,1 +1,1 @@
-export const BASE_URL = "https://mindmap2.vercel.app"
+export const BASE_URL = "https://mindmap-server.vercel.app"
